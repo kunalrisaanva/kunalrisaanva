@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://res.cloudinary.com/dltbikmc6/image/upload/v1700812798/cztijh7teqp8iafsbe5w.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node js , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Node js Developer mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node js , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Node js Developer </strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kunalrisaanva&theme=radical&mode=weekly" />
