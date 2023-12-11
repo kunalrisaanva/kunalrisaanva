@@ -34,7 +34,8 @@
 
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Mongoose](https://img.shields.io/badge/Mongoose-v6.0.12-blue?logo=mongoose)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=green)
+
 
 
 
