@@ -33,6 +33,8 @@
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-v4.17.1-blue?logo=express)
 ![Mongoose](https://img.shields.io/badge/Mongoose-v6.0.12-blue?logo=mongoose)
+![MySql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+
 
 
 
