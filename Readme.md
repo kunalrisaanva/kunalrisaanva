@@ -27,7 +27,7 @@
 
 
 
-<img src="https://res.cloudinary.com/dltbikmc6/image/upload/v1702095441/ukxdovheyq7crpg00a0v.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://res.cloudinary.com/dltbikmc6/image/upload/v1704027842/g4epwevcbjayt3mscgqa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
