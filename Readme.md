@@ -2,7 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://res.cloudinary.com/dltbikmc6/image/upload/v1704027721/bflmsfaf7ybwjcqutqiq.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node js , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Node js Developer </strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Dedicated and experienced Node.js developer proficient in crafting efficient, scalable, and high-performing applications. With a strong background in JavaScript and expertise in Node.js frameworks.
+.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kunalrisaanva&theme=radical&mode=weekly" />
