@@ -58,13 +58,14 @@
 
 ![AWS](https://img.shields.io/badge/AWS-v2021-red?logo=amazon-aws)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Used-9cf?logo=<YOUR_CLOUDINARY_LOGO_URL>)](https://cloudinary.com)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-336791?logo=postgresql)
 
 
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
 
 #### Workstation Tools:
 
